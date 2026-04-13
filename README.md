@@ -28,7 +28,7 @@ Recently entered the field of Cybersecurity and actively seeking my first opport
 - **SIEM Lab on Proxmox** — Configured and tested a SIEM environment using Proxmox for virtualization
 - **Daily TryHackMe Progress** — Consistently completing modules focused on ethical hacking, web vulnerabilities and network security
 
-This is a fresh profile where I’ll be uploading some smaller projects, experiments, and things I’m currently working on. Everything here is built from scratch, no copy/paste templates.
+This is a fresh profile where I’ll be uploading some smaller projects, experiments, and things I’m currently working on. Everything here is built from scratch.
 
 
 
