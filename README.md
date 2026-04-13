@@ -4,7 +4,7 @@ I'm Armando, a junior cybersecurity professional based in Portugal.
 
 Recently entered the field of Cybersecurity and actively seeking my first opportunity to deliver value and grow in this area.
 
---ABOUT ME--
+**--ABOUT ME--**
 
 - 🎓 Completed 12th grade in Automation, Electronics and Computers
 - 🎓 Completed an intensive Cybersecurity course ( CODE FOR ALL SHCOOL)
@@ -12,7 +12,7 @@ Recently entered the field of Cybersecurity and actively seeking my first opport
 - 📚 Doing TryHackMe modules daily to consistently improve my skills
 - 🔭 Open to: Junior Cybersecurity Analyst, SOC Analyst (Tier 1), Security internships or entry-level roles
 
---Skills & Tools--
+**--SKILLS & TOOLS--**
 
 **Currently Learning & Using:**
 - Operating Systems: Linux (Kali, Ubuntu), Windows
@@ -23,7 +23,7 @@ Recently entered the field of Cybersecurity and actively seeking my first opport
 - Scripting: Bash, Python (for security automation)
 - Security: SIEM configuration, OWASP Top 10, basic Incident Response
 
---Projects & Labs--
+**--PROJECT & LABS--**
 
  **SIEM Lab on Proxmox** — Configured and tested a SIEM environment using Proxmox for virtualization
  **Daily TryHackMe Progress** — Consistently completing modules focused on ethical hacking, web vulnerabilities and network security
