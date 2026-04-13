@@ -6,11 +6,11 @@ Recently entered the field of Cybersecurity and actively seeking my first opport
 
 --ABOUT ME--
 
-🎓 Completed 12th grade in Automation, Electronics and Computers
-🎓 Completed an intensive Cybersecurity course ( CODE FOR ALL SHCOOL)
-🔧 Recently set up and tested a SIEM environment on Proxmox — very comfortable using Proxmox for virtualization and security labs
-📚 Doing TryHackMe modules daily to consistently improve my skills
-🔭 Open to: Junior Cybersecurity Analyst, SOC Analyst (Tier 1), Security internships or entry-level roles
+- 🎓 Completed 12th grade in Automation, Electronics and Computers
+- 🎓 Completed an intensive Cybersecurity course ( CODE FOR ALL SHCOOL)
+- 🔧 Recently set up and tested a SIEM environment on Proxmox — very comfortable using Proxmox for virtualization and security labs
+- 📚 Doing TryHackMe modules daily to consistently improve my skills
+- 🔭 Open to: Junior Cybersecurity Analyst, SOC Analyst (Tier 1), Security internships or entry-level roles
 
 --Skills & Tools--
 
